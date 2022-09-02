@@ -26,4 +26,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png"></code>
 
 ## You can reach me at email in my gthub profile. Follow my socials!
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Leonardo Vasconcellos on LinkedIn" title="Follow Marcio Thiele on LinkedIn"/>](https://www.linkedin.com/in/leonardo-vasconcellos-2772744b/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Leonardo Vasconcellos on LinkedIn" title="Follow Leonardo Vasconcellos on LinkedIn"/>](https://www.linkedin.com/in/leonardo-vasconcellos-2772744b/)
