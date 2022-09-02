@@ -1,5 +1,5 @@
 ## About Me
-- :brazil: Brazilian Guy
+- Brazilian Guy
 - Bachelor of Computer Science
  
 ## Languages and Tools: 
